@@ -9,7 +9,7 @@
     <h1 class="header">API Basejump: Request Header Parser Microservice</h1>
     <p>By MindShaver |
         <a href="https://github.com/MindShaver/header-mservice">Project GitHub</a></p>
-        <p> View the live site <a href="https://mindshaver-timestamp-service.herokuapp.com/" target="_blank">HERE</a></p>
+        <p> View the live site <a href="https://mindshaver-header-parser.herokuapp.com/" target="_blank">HERE</a></p>
     <blockquote>User Stories:
         <ol>
             <li>User Story: I can get the IP address, language and operating system for my browser.
