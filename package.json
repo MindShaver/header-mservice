@@ -1,0 +1,22 @@
+{
+  "name": "rheader",
+  "version": "1.0.0",
+  "description": "A Request Header Parser Microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MindShaver/header-mservice.git"
+  },
+  "author": "Robert Livingston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MindShaver/header-mservice/issues"
+  },
+  "homepage": "https://github.com/MindShaver/header-mservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
