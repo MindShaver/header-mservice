@@ -21,9 +21,9 @@
     
    "ipaddress": "23.197.92.1",  
    
-   "language": "en-US",  
+   "language": "en-US",  <br />
    
-   "software": "Windows 7"  
+   "software": "Windows 7"  <br />
    
 }</code>
     
