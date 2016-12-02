@@ -19,7 +19,7 @@
     <h2>Example output:</h2>
     <code>{<br/>
    "ipaddress": "23.197.92.1",<br/>
-   "language": "en-US",</br>
+   "language": "en-US",<br/>
    "software": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"<br/>
 }</code>
     
