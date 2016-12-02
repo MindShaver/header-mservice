@@ -17,11 +17,11 @@
         </ol>
     </blockquote>
     <h2>Example output:</h2>
-    {
+    <code>{
    "ipaddress": "23.197.92.1",
    "language": "en-US", 
    "software": "Windows 7"  
-}
+   }</code>
     
 </div>
 </body>
